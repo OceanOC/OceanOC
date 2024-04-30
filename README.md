@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OceanOC
 - 👀 I’m interested in C# and Minecraft mod development
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning Rust
 
 <!---
 OceanOC/OceanOC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
